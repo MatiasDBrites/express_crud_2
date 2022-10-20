@@ -12,6 +12,11 @@ Desafío  de hoy:
  .env
  
  DB_NAME=qroll
+ 
  DB_USER=posgres
+ 
  DB_PASSWORD=123456
+ 
  DB_PORT=5432
+
+DB_SERVICE_URL= URL OF MAIN SERVICE
