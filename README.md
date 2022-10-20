@@ -9,14 +9,14 @@ Desafío  de hoy:
 
  Crear una variable de entorno .env con la información del nombre, usuario, contraseña y puerto. Pasarle la información al componente /config/database. Hacer una variable .env_sample donde diga que datos poner y escribirlo en el README, haciendo de cuenta que la persona que va a recibir el código, no sabe que tiene que poner esas variables. Se puede usar la misma palabra clave porque trabajamos en el mismo proyecto.
  
- .env
+ ENV.EXAMPLE
  
- DB_NAME=qroll
+ [![5.png](https://i.postimg.cc/jjrgqfdq/5.png)](https://postimg.cc/zy0S0Vg4)
  
- DB_USER=posgres
+ Al 100% corriendo
  
- DB_PASSWORD=123456
+ [![4.png](https://i.postimg.cc/zGT7Qfws/4.png)](https://postimg.cc/rDF50MPj)
  
- DB_PORT=5432
-
-DB_SERVICE_URL= URL OF MAIN SERVICE
+ 
+ 
+ 
